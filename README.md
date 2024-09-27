@@ -36,15 +36,21 @@ npm run reset-project
 This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
 Output
+![Screenshot 2024-09-27 211810](https://github.com/user-attachments/assets/ffed0d5b-aad9-4d95-b017-6b83eac53c4f)
 
-![image](https://github.com/user-attachments/assets/7f735835-1a3a-402e-9b0f-0bdb3a610850)
-![image](https://github.com/user-attachments/assets/f81a9a6c-2835-4a80-b26c-8302b3cbb30b)
-![image](https://github.com/user-attachments/assets/90163c95-3ed0-4e19-b956-4f398308026a)
-![image](https://github.com/user-attachments/assets/c9186c0a-5940-41f5-9ffa-8156e303c356)
-![image](https://github.com/user-attachments/assets/55362656-4812-448a-9f65-5bc5a2bcab78)
-![image](https://github.com/user-attachments/assets/b9830d79-8ea3-4b5e-a38d-10d5ca907834)
-![image](https://github.com/user-attachments/assets/460def58-6d39-4055-a42e-5430b5bdd78f)
-![image](https://github.com/user-attachments/assets/1ad63a19-efc0-4735-acfe-c2eda89d2d0a)
+![Screenshot 2024-09-27 211843](https://github.com/user-attachments/assets/17a21fcf-6377-4540-b34a-1069b2b53c3b)
+![Screenshot 2024-09-27 211833](https://github.com/user-attachments/assets/1f18b633-5cb6-4980-b904-db8282c757c0)
 
+![Screenshot 2024-09-27 212309](https://github.com/user-attachments/assets/71987860-0090-4f08-9e0c-c3cdb2144883)
+
+
+![Screenshot 2024-09-27 211939](https://github.com/user-attachments/assets/4f86d623-8978-43e4-bba3-65cad751351a)
+
+![Screenshot 2024-09-27 211955](https://github.com/user-attachments/assets/6ab01f0d-7fb7-42f8-8479-c684ca53555f)
+
+![Screenshot 2024-09-27 212401](https://github.com/user-attachments/assets/a87a9555-e82b-4451-a67b-fe926e6de57f)
+
+
+![Screenshot 2024-09-27 212324](https://github.com/user-attachments/assets/f1072903-2290-4e6e-ad1a-04883816f4cb)
 
 
