@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "vidalze",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
@@ -13,22 +13,22 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "com.agrimzz.vidalze"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.agrimzz.vidalze"
     },
     "web": {
       "bundler": "metro",
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "experiments": {
       "typedRoutes": true
     }
