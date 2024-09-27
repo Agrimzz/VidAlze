@@ -57,7 +57,7 @@ const Create = () => {
     try {
       await createVideo({
         ...form,
-        userId: user.$id,
+        userId: user?.$id,
       })
       Alert.alert("Success", "Post uploaded succesfully")
       router.push("/home")

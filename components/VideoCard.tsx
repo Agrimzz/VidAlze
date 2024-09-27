@@ -32,11 +32,11 @@ const VideoCard = ({
       }
     }
     checkIfVideoIsSaved()
-  }, [id, user.$id])
+  }, [id, user?.$id])
 
   const handleSaveVideo = async () => {
     try {
-      await saveVideoForUser(id, user.$id)
+      await saveVideoForUser(id, user?.$id)
       Alert.alert("Success", "Video saved successfully!")
       setIsSaved(true) // Mark the video as saved after saving
       setMenuVisible(false)

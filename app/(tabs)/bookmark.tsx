@@ -12,7 +12,7 @@ import { useGlobalContext } from "@/context/GlobalProvider"
 const Search = () => {
   const { user } = useGlobalContext()
   const { data: posts, refetch } = useAppWrite(() =>
-    getSavedVideosForUser(user.$id)
+    getSavedVideosForUser(user?.$id)
   )
 
   const [refreshing, setRefreshing] = useState(false)

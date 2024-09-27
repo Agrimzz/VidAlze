@@ -13,7 +13,7 @@ import InfoBox from "@/components/InfoBox"
 
 const Profile = () => {
   const { user, setUser, setIsLogged } = useGlobalContext()
-  const { data: posts, refetch } = useAppWrite(() => getUserPosts(user.$id))
+  const { data: posts, refetch } = useAppWrite(() => getUserPosts(user?.$id))
 
   const logout = async () => {
     await signOut()
